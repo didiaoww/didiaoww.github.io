@@ -341,7 +341,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("images/banner.jpg") center #000;
+  background: url("use_coverfalsedefaulttypeimgbgurl/img/banner.pngbannerTextHi my new friend!positiontopfitcoverindexbannerTitle树深时见鹿，<br>溪午不闻钟。bannerTextHi my new friend!videoUrlarchivebannerTitle云间连下榻，<br>天上接行杯。bannerTextThe article archivelinksbannerTitle莫愁前路无知己，<br>天下谁人不识君。bannerTextA link to a friend's websitecommentbannerTitle醉后不知天在水，<br>满船清梦压星河。bannerTextThe magic tree holeaboutbannerTitle醉后不知天在水，<br>满船清梦压星河。bannerTextAbout me") center #000;
   background-size: cover;
   z-index: -1;
 }
